@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mcbee-home-solutions.netlify.app/sitemap.xml
